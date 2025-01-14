@@ -1,0 +1,105 @@
+{
+	"title": "Que pokémon inicial você é?",
+	"questions": [
+		{
+			"id": 1,
+			"question": "Qual seu gênero de filme favorito?",
+			"options": [
+				{"id": 1, "name": "Terror", "alias": "E"},
+				{"id": 2, "name": "Ação", "alias": "B"},
+				{"id": 3, "name": "Comédia", "alias": "C"},
+				{"id": 4, "name": "Drama", "alias": "A"}
+			]
+		},
+		{
+			"id": 2,
+			"question": "Qual desses animais de estimação você tem / teria?",
+			"options": [
+				{"id": 1, "name": "Um cachorro bem leal", "alias": "A"},
+				{"id": 2, "name": "Um gato", "alias": "E"},
+				{"id": 3, "name": "Um coelho muito fofo", "alias": "D"},
+				{"id": 4, "name": "Nenhum, não preciso de ninguém", "alias": "B"}
+			]
+		},
+		{
+			"id": 3,
+			"question": "O que você mais gosta de comer?",
+			"options": [
+				{"id": 1, "name": "Chocolate", "alias": "B"},
+				{"id": 2, "name": "Pastel com caldo de cana", "alias": "D"},
+				{"id": 3, "name": "Sanduíche natural", "alias": "A"},
+				{"id": 4, "name": "Pizza", "alias": "E"}
+			]
+		},
+		{
+			"id": 4,
+			"question": "Que horas você costuma acordar?",
+			"options": [
+				{"id": 1, "name": "Bem cedo, antes do sol nascer!", "alias": "A"},
+				{"id": 2, "name": "Na hora do almoço, pulando o café da manhã.", "alias": "C"},
+				{"id": 3, "name": "Acordo de noite e já vou dormir de novo.", "alias": "B"},
+				{"id": 4, "name": "Depende do dia, às vezes 6h, às vezes 16h...", "alias": "E"}
+			]
+		},
+		{
+			"id": 5,
+			"question": "Como seus amigos te descreveriam?",
+			"options": [
+				{"id": 1, "name": "Leal", "alias": "A"},
+				{"id": 2, "name": "Intenso", "alias": "B"},
+				{"id": 3, "name": "Divertido", "alias": "C"},
+				{"id": 4, "name": "Impulsivo", "alias": "D"}
+			]
+		},
+		{
+			"id": 6,
+			"question": "Qual destas frases melhor te define?",
+			"options": [
+				{"id": 1, "name": "Nunca desista antes de acabar!", "alias": "A"},
+				{"id": 2, "name": "Eu gosto de shorts, eles são confortáveis e fáceis de vestir", "alias": "C"},
+				{"id": 3, "name": "As circunstâncias do nascimento de alguém são irrelevantes. É o que você faz com o dom da vida que determina quem você é.", "alias": "E"},
+				{"id": 4, "name": "Eu acho que às vezes é necessário errar para aprender a acertar.", "alias": "D"}
+			]
+		},
+		{
+			"id": 7,
+			"question": "Qual a sua estação do ano favorita?",
+			"options": [
+				{"id": 1, "name": "Verão", "alias": "C"},
+				{"id": 2, "name": "Outono", "alias": "D"},
+				{"id": 3, "name": "Inverno", "alias": "B"},
+				{"id": 4, "name": "Primavera", "alias": "A"}
+			]
+		},
+		{
+			"id": 8,
+			"question": "Onde você gostaria de tirar férias?",
+			"options": [
+				{"id": 1, "name": "Acampamento", "alias": "A"},
+				{"id": 2, "name": "Praia", "alias": "C"},
+				{"id": 3, "name": "Disney", "alias": "D"},
+				{"id": 4, "name": "Em casa mesmo", "alias": "E"}
+			]
+		},
+		{
+			"id": 9,
+			"question": "Quando você toma decisões, você geralmente:",
+			"options": [
+				{"id": 1, "name": "Baseia-se em dados e fatos concretos", "alias": "C"},
+				{"id": 2, "name": "Confia em seus sentimentos e intuições", "alias": "D"},
+				{"id": 3, "name": "Considera a opinião dos outros antes de decidir", "alias": "B"},
+				{"id": 4, "name": "Pensa nas consequências a longo prazo", "alias": "E"}
+			]
+		},
+		{
+			"id": 10,
+			"question": "Qual é o seu estilo de trabalho preferido?",
+			"options": [
+				{"id": 1, "name": "Trabalhar sozinho e no meu próprio ritmo", "alias": "B"},
+				{"id": 2, "name": "Colaborar em equipe para trocar ideias", "alias": "D"},
+				{"id": 3, "name": "Ter um líder que guie o projeto", "alias": "C"},
+				{"id": 4, "name": "Alternar entre trabalho individual e em grupo", "alias": "E"}
+			]
+		}
+	]
+}
